@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hi, I’m Jonas, a student at HTWK Leipzig specializing in energy systems modeling with Python. My projects focus on sustainable energy solutions, including dynamic pricing, storage optimization, and system modeling.
+
 <!--
 **jpwerner00/jpwerner00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
